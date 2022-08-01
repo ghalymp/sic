@@ -46,3 +46,6 @@ tampilkan isi dari file tersebut menggunakan CLI command
 ![Screenshot (227)](https://user-images.githubusercontent.com/108166801/182094895-8063f920-35bc-4b49-820e-af9f42323f8f.png)
 
 ![Screenshot (228)](https://user-images.githubusercontent.com/108166801/182095013-26dc656c-807a-4471-a869-c24e6fa8913a.png)
+
+![Screenshot (229)](https://user-images.githubusercontent.com/108166801/182095115-f32fb529-cd8d-456b-a6e8-73edd13538e4.png)
+
