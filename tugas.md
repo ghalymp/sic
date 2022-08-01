@@ -43,3 +43,5 @@ tampilkan isi dari file tersebut menggunakan CLI command
 
 6.Pada tahap ini kamu lupa jika sebenarnya file portfolio.txt serahusnya tidak berada pada folder sekolah, jadi kamu harus memindahkannya ke dalam folder kerja
 
+![Screenshot (227)](https://user-images.githubusercontent.com/108166801/182094895-8063f920-35bc-4b49-820e-af9f42323f8f.png)
+
