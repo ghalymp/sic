@@ -49,3 +49,4 @@ tampilkan isi dari file tersebut menggunakan CLI command
 
 ![Screenshot (229)](https://user-images.githubusercontent.com/108166801/182095115-f32fb529-cd8d-456b-a6e8-73edd13538e4.png)
 
+![Screenshot (230)](https://user-images.githubusercontent.com/108166801/182095241-d6db3c04-3feb-4d5a-b417-9a81f2826b9f.png)
